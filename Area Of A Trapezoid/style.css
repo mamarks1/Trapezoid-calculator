@@ -1,0 +1,19 @@
+html{
+    background: url(images/red-and-blue-background.jpg) no-repeat center fixed; 
+  background-size: cover;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+body{
+    background-color: white;
+    padding: 15px 20px;
+}
+
+p{
+    text-align: center
+    
+}
+h2{
+    text-align: center
+}
